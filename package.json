@@ -1,0 +1,12 @@
+{
+"name": "togbut",
+"author": "gailo22",
+"description": "Tracking your time by togbut!!",
+"version", "1.0-SNAPSHOT",
+"dependencies": {
+       "connect": "1.8.x",
+       "express": "2.5.x"
+       },
+"engine": "0.6.x",
+"main": "app.js"
+}
